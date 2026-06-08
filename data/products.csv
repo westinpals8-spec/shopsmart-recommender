@@ -1,0 +1,51 @@
+product_id,name,category,description,price
+1,Wireless Noise-Cancelling Headphones,Electronics,"Premium over-ear headphones with active noise cancellation, 30-hour battery, Bluetooth 5.0, and foldable design",89.99
+2,Mechanical Keyboard,Electronics,"TKL mechanical keyboard with Cherry MX switches, RGB backlit, USB-C, compact 80% layout",74.99
+3,USB-C Hub 7-in-1,Electronics,"Multiport adapter with HDMI 4K, 3 USB-A, SD card reader, PD charging, and Ethernet",39.99
+4,Laptop Stand Adjustable,Electronics,"Aluminum ergonomic laptop stand, height and angle adjustable, compatible with 10-17 inch laptops",34.99
+5,Webcam 1080p HD,Electronics,"Full HD webcam with built-in microphone, auto light correction, plug-and-play USB, wide-angle lens",49.99
+6,Portable Bluetooth Speaker,Electronics,"Waterproof IPX7 speaker, 360-degree sound, 20-hour battery, compact cylindrical design",59.99
+7,Smart LED Desk Lamp,Electronics,"Touch-controlled desk lamp with 5 color temperatures, USB charging port, memory function, dimmable",29.99
+8,External SSD 1TB,Electronics,"USB 3.2 portable solid state drive, read speeds up to 1050MB/s, shock-resistant, compact form",89.99
+9,Ergonomic Mouse Wireless,Electronics,"Vertical ergonomic wireless mouse, 6 buttons, adjustable DPI, reduces wrist strain",42.99
+10,4K Monitor 27-inch,Electronics,"IPS panel 4K UHD monitor, 60Hz, sRGB 99%, HDMI and DisplayPort inputs, built-in speakers",299.99
+11,Running Shoes Men,Sports,"Lightweight mesh upper, cushioned midsole, breathable design, suitable for road and trail running",64.99
+12,Yoga Mat Non-Slip,Sports,"6mm thick eco-friendly TPE yoga mat, alignment lines, moisture-resistant, includes carry strap",28.99
+13,Resistance Bands Set,Sports,"Set of 5 latex resistance bands with varying tension levels, includes carry bag and exercise guide",19.99
+14,Adjustable Dumbbells,Sports,"Pair of adjustable dumbbells 5-52.5 lbs, quick change dial system, space-saving design",299.99
+15,Cycling Helmet,Sports,"MIPS-certified road cycling helmet, 20 vents, adjustable retention system, CE EN 1078 certified",79.99
+16,Jump Rope Speed,Sports,"Steel cable jump rope with ball bearings, adjustable length, foam-padded handles, includes bag",14.99
+17,Water Bottle Insulated,Sports,"32 oz stainless steel vacuum insulated bottle, keeps cold 24h, hot 12h, leak-proof lid",24.99
+18,Foam Roller High Density,Sports,"High-density EVA foam roller 36 inch, ideal for myofascial release and muscle recovery",22.99
+19,Fitness Tracker Band,Sports,"Activity tracker with heart rate monitor, sleep tracking, step counter, 7-day battery, waterproof",39.99
+20,Backpack Hiking 50L,Sports,"50-liter internal frame hiking backpack, rain cover included, hydration sleeve, multiple pockets",89.99
+21,Python Programming Book,Books,"Comprehensive guide to Python 3 programming covering data structures, OOP, and web development",44.99
+22,Deep Learning Textbook,Books,"Introduction to deep learning covering CNNs, RNNs, transformers, and practical TensorFlow examples",59.99
+23,The Art of War,Books,"Classic strategic treatise by Sun Tzu with modern business and leadership commentary",12.99
+24,Atomic Habits,Books,"Practical guide to building good habits and breaking bad ones using behavior science principles",16.99
+25,Data Science Handbook,Books,"Comprehensive resource covering statistics, machine learning, data wrangling, and visualization",54.99
+26,Clean Code,Books,"Best practices for writing readable, maintainable, and efficient software code by Robert C. Martin",38.99
+27,The Lean Startup,Books,"Methodology for developing businesses and products through validated learning and rapid iteration",17.99
+28,Machine Learning Yearning,Books,"Technical guide by Andrew Ng on structuring machine learning projects and diagnosing errors",0.00
+29,Designing Data-Intensive Applications,Books,"Deep dive into distributed systems, databases, and the principles behind reliable scalable systems",54.99
+30,The Pragmatic Programmer,Books,"Guide to software craftsmanship covering tools, techniques, and best practices for developers",44.99
+31,Coffee Maker Drip 12-Cup,Kitchen,"Programmable 12-cup drip coffee maker with thermal carafe, auto brew timer, and keep-warm plate",59.99
+32,Air Fryer 5.8 Quart,Kitchen,"Digital air fryer with 8 cooking presets, non-stick basket, 1700W, dishwasher-safe parts",89.99
+33,Instant Pot Duo 7-in-1,Kitchen,"7-in-1 electric pressure cooker with slow cook, rice cooker, steamer, and saute functions, 6 quart",79.99
+34,Non-Stick Cookware Set,Kitchen,"10-piece non-stick aluminum cookware set, oven-safe to 500F, induction-compatible, PFOA-free",69.99
+35,Stand Mixer 5-Quart,Kitchen,"Tilt-head stand mixer with 10 speeds, includes flat beater, dough hook, and wire whip, 325W",249.99
+36,Knife Block Set 15-Piece,Kitchen,"German stainless steel knife set with block, includes chef, bread, santoku, and steak knives",89.99
+37,French Press Coffee Maker,Kitchen,"34 oz borosilicate glass French press with stainless steel plunger and double-screen filter",29.99
+38,Blender High Performance,Kitchen,"High-performance countertop blender, 1400W, 72 oz BPA-free jar, 10 speeds, self-cleaning",79.99
+39,Toaster Oven Convection,Kitchen,"Countertop convection toaster oven, 1800W, 6-slice capacity, 9 cooking functions, digital display",89.99
+40,Cast Iron Skillet 12-inch,Kitchen,"Pre-seasoned cast iron skillet, oven-safe to 500F, compatible with all cooktops, natural non-stick",39.99
+41,Moisturizing Face Cream,Beauty,"Daily moisturizing cream with hyaluronic acid, SPF 30, suitable for all skin types, fragrance-free",28.99
+42,Vitamin C Serum,Beauty,"20% vitamin C brightening serum with vitamin E and ferulic acid, reduces dark spots and fine lines",34.99
+43,Electric Toothbrush,Beauty,"Sonic electric toothbrush with 5 modes, pressure sensor, 2-minute timer, 3-week battery, includes 2 heads",49.99
+44,Hair Dryer Professional,Beauty,"1875W ionic hair dryer with 3 heat settings, 2 speed settings, cold shot button, concentrator nozzle",39.99
+45,Sunscreen SPF 50,Beauty,"Broad-spectrum SPF 50 mineral sunscreen, reef-safe, water-resistant 80 min, tinted, 3 fl oz",22.99
+46,Essential Oil Diffuser,Beauty,"300ml ultrasonic aromatherapy diffuser, 7 LED colors, auto shut-off, whisper-quiet, 8 hour runtime",25.99
+47,Makeup Brush Set,Beauty,"15-piece professional synthetic makeup brush set, vegan, includes storage bag, for face and eye",19.99
+48,Nail Polish Set,Beauty,"Set of 20 long-lasting nail polishes in trendy shades, quick-dry formula, chip-resistant finish",24.99
+49,Beard Trimmer Cordless,Beauty,"Cordless beard and hair trimmer, 40 length settings, self-sharpening blades, 90-min run time",49.99
+50,Perfume Eau de Toilette,Beauty,"Fresh citrus and woody scent, 3.4 fl oz, long-lasting fragrance, suitable for daily wear",55.99
